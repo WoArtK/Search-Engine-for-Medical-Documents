@@ -3,7 +3,8 @@ FastAnswerofQueries/out
 IdeaProjects/.idea
 IdeaProjects/out
 IdeaProjects/*.jar
-Indexing_HealthInfo
+Indexing_HealthInfo/out
+Indexing_HealthInfo/*.jar
 MeshMajorList/data
 MeshMajorList/Thesis_MeshMajorList_Data.zip
 Recall_Precision_Fallout

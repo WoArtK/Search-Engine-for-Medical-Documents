@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Indexing_HealthInfo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Indexing_HealthInfo_jar</output-path>
+    <root id="archive" name="Indexing_HealthInfo.jar">
+      <element id="module-output" name="Indexing_HealthInfo" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jackson-core-2.10.0.pr3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jackson-databind-2.10.0.pr3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/gson-2.2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jackson-core-asl-1.9.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jackson-annotations-2.10.0.pr3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jackson-mrbean-1.9.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jackson-mapper-asl-1.9.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/apache-lucene-snowball.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/gson-2.2.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
