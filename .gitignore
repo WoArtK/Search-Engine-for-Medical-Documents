@@ -1,5 +1,8 @@
-FastAnswerofQueries
-IdeaProjects
+FastAnswerofQueries/.idea
+FastAnswerofQueries/out
+IdeaProjects/.idea
+IdeaProjects/out
+IdeaProjects/*.jar
 Indexing_HealthInfo
 MeshMajorList/data
 MeshMajorList/Thesis_MeshMajorList_Data.zip

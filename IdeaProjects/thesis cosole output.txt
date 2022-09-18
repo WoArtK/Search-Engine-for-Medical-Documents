@@ -1,0 +1,731 @@
+"C:\Program Files\Java\jdk-12.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.2\lib\idea_rt.jar=50835:C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\artemis\IdeaProjects\out\production\IdeaProjects;C:\Users\artemis\IdeaProjects\apache-lucene-snowball.jar;C:\Users\artemis\IdeaProjects\json-simple-1.1.1.jar;C:\Users\artemis\IdeaProjects\gson-2.2.4.jar;C:\Users\artemis\IdeaProjects\jackson-annotations-2.10.0.pr3.jar;C:\Users\artemis\IdeaProjects\jackson-core-2.10.0.pr3.jar;C:\Users\artemis\IdeaProjects\jackson-databind-2.10.0.pr3.jar;C:\Users\artemis\IdeaProjects\jackson-mapper-asl-1.9.13.jar;C:\Users\artemis\IdeaProjects\jackson-core-asl-1.9.13.jar;C:\Users\artemis\IdeaProjects\jackson-mrbean-1.9.13.jar;C:\Users\artemis\IdeaProjects\gson-2.2.2.jar Index
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\DocumentFile.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile0.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile1.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile0.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile1.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile0.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile1.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile2.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile0.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile1.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile2.txt
+Directory is deleted : C:\Users\artemis\IndexFiles\CollectionIndex
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile0.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile1.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile1.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile1.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile0.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile0.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile2.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile3.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile3.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile3.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile2.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile2.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile4.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile5.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile5.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile5.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile4.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile4.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile6.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile7.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile7.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile7.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile6.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile6.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile8.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile9.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile9.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile9.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile8.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile8.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile10.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile11.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile11.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile11.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile10.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile10.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile12.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile13.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile13.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile13.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile12.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile12.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile14.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile15.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile15.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile15.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile14.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile14.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile16.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile17.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile17.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile17.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile16.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile16.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile18.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile19.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile19.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile19.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile18.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile18.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile20.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile21.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile21.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile21.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile20.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile20.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile22.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile23.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile23.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile23.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile22.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile22.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile24.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile25.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile25.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile25.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile24.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile24.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile26.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile27.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile27.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile27.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile26.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile26.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile28.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile29.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile29.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile29.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile28.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile28.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile30.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile31.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile31.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile31.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile30.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile30.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile32.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile33.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile33.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile33.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile32.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile32.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile34.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile35.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile35.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile35.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile34.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile34.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile36.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile37.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile37.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile37.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile36.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile36.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile38.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile39.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile39.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile39.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile38.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile38.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile40.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile41.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile41.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile41.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile40.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile40.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile42.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile43.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile43.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile43.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile42.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile42.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile44.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile45.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile45.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile45.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile44.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile44.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile46.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile47.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile47.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile47.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile46.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile46.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile48.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile49.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile49.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile49.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile48.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile48.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile50.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile51.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile51.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile51.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile50.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile50.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile52.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile53.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile53.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile53.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile52.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile52.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile54.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile55.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile55.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile55.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile54.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile54.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile56.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile57.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile57.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile57.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile56.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile56.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile58.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile59.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile59.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile59.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile58.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile58.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile60.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile61.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile61.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile61.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile60.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile60.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile62.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile63.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile63.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile63.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile62.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile62.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile64.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile65.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile65.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile65.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile64.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile64.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile66.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile67.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile67.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile67.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile66.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile66.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile68.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile69.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile69.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile69.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile68.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile68.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile70.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile71.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile71.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile71.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile70.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile70.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile72.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile73.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile73.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile73.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile72.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile72.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile74.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile75.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile75.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile75.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile74.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile74.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile76.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile77.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile77.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile77.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile76.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile76.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile78.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile79.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile79.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile79.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile78.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile78.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile80.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile81.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile81.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile81.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile80.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile80.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile82.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile83.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile83.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile83.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile82.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile82.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile84.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile85.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile85.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile85.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile84.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile84.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile86.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile87.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile87.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile87.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile86.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile86.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile88.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile89.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile89.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile89.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile88.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile88.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile90.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile91.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile91.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile91.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile90.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile90.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile92.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile93.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile93.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile93.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile92.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile92.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile94.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile95.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile95.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile95.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile94.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile94.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile96.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile97.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile97.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile97.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile96.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile96.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile98.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile99.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile99.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile99.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile98.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile98.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile100.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile101.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile101.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile101.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile100.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile100.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile102.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile103.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile103.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile103.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile102.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile102.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile104.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile105.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile105.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile105.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile104.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile104.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile106.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile107.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile107.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile107.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile106.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile106.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile108.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile109.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile109.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile109.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile108.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile108.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile110.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile111.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile111.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile111.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile110.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile110.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile112.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile113.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile113.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile113.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile112.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile112.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile114.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile115.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile115.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile115.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile114.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile114.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile116.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile117.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile117.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile117.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile116.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile116.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile118.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile119.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile119.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile119.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile118.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile118.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile120.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile121.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile121.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile121.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile120.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile120.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile122.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile123.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile123.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile123.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile122.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile122.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile124.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile125.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile125.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile125.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile124.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile124.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile126.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile127.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile127.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile127.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile126.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile126.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile128.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile129.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile129.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile129.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile128.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile128.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile130.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile131.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile131.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile131.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile130.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile130.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile132.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile133.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile133.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile133.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile132.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile132.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile134.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile135.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile135.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile135.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile134.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile134.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile136.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile137.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile137.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile137.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile136.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile136.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile138.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile139.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile139.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile139.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile138.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile138.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile140.txt + C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile141.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile141.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile141.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile140.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile140.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile142.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile0.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile0.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile0.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\VocabularyFile142.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\PostingFile142.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile1.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile2.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile2.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile2.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile1.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile1.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile3.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile4.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile4.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile4.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile3.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile3.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile5.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile6.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile6.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile6.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile5.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile5.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile7.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile8.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile8.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile8.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile7.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile7.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile9.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile10.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile10.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile10.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile9.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile9.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile11.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile12.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile12.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile12.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile11.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile11.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile13.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile14.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile14.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile14.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile13.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile13.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile15.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile16.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile16.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile16.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile15.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile15.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile17.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile18.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile18.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile18.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile17.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile17.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile19.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile20.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile20.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile20.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile19.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile19.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile21.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile22.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile22.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile22.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile21.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile21.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile23.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile24.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile24.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile24.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile23.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile23.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile25.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile26.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile26.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile26.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile25.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile25.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile27.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile28.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile28.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile28.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile27.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile27.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile29.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile30.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile30.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile30.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile29.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile29.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile31.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile32.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile32.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile32.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile31.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile31.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile33.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile34.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile34.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile34.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile33.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile33.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile35.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile36.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile36.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile36.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile35.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile35.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile37.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile38.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile38.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile38.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile37.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile37.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile39.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile40.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile40.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile40.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile39.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile39.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile41.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile42.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile42.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile42.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile41.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile41.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile43.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile44.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile44.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile44.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile43.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile43.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile45.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile46.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile46.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile46.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile45.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile45.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile47.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile48.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile48.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile48.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile47.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile47.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile49.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile50.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile50.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile50.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile49.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile49.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile51.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile52.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile52.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile52.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile51.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile51.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile53.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile54.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile54.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile54.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile53.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile53.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile55.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile56.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile56.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile56.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile55.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile55.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile57.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile58.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile58.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile58.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile57.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile57.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile59.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile60.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile60.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile60.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile59.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile59.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile61.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile62.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile62.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile62.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile61.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile61.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile63.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile64.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile64.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile64.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile63.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile63.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile65.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile66.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile66.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile66.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile65.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile65.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile67.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile68.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile68.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile68.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile67.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile67.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile69.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile70.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile70.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile70.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile69.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile69.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile71.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile72.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile72.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile72.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile71.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile71.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile73.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile74.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile74.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile74.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile73.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile73.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile75.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile76.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile76.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile76.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile75.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile75.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile77.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile78.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile78.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile78.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile77.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile77.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile79.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile80.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile80.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile80.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile79.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile79.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile81.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile82.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile82.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile82.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile81.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile81.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile83.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile84.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile84.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile84.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile83.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile83.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile85.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile86.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile86.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile86.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile85.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile85.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile87.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile88.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile88.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile88.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile87.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile87.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile89.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile90.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile90.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile90.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile89.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile89.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile91.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile92.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile92.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile92.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile91.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile91.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile93.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile94.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile94.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile94.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile93.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile93.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile95.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile96.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile96.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile96.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile95.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile95.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile97.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile98.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile98.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile98.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile97.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile97.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile99.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile100.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile100.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile100.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile99.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile99.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile101.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile102.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile102.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile102.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile101.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile101.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile103.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile104.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile104.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile104.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile103.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile103.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile105.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile106.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile106.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile106.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile105.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile105.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile107.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile108.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile108.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile108.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile107.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile107.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile109.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile110.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile110.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile110.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile109.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile109.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile111.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile112.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile112.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile112.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile111.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile111.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile113.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile114.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile114.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile114.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile113.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile113.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile115.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile116.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile116.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile116.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile115.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile115.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile117.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile118.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile118.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile118.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile117.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile117.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile119.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile120.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile120.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile120.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile119.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile119.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile121.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile122.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile122.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile122.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile121.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile121.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile123.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile124.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile124.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile124.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile123.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile123.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile125.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile126.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile126.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile126.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile125.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile125.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile127.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile128.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile128.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile128.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile127.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile127.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile129.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile130.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile130.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile130.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile129.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile129.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile131.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile132.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile132.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile132.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile131.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile131.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile133.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile134.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile134.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile134.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile133.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile133.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile135.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile136.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile136.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile136.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile135.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile135.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile137.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile138.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile138.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile138.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile137.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile137.txt
+merging C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile139.txt + C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile140.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile140.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile140.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_VocabularyFile139.txt
+File is deleted : C:\Users\artemis\IndexFiles\CollectionIndex\Merged_PostingFile139.txt
+running time in nanoseconds=208192392945101
+running time in seconds=208192
+running time in minitus=3469
+running time in hours=57
+lost words
+ent of lost words
+
+Process finished with exit code 0
