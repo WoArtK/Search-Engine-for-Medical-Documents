@@ -10,4 +10,8 @@ MeshMajorList/Thesis_MeshMajorList_Data.zip
 Recall_Precision_Fallout/out
 Recall_Precision_Fallout/files
 Recall_Precision_Fallout/Reacl_Precision_Fallout.zip
-SearchEngine_queriesAnswer
+SearchEngine_queriesAnswer/.idea
+SearchEngine_queriesAnswer/out
+SearchEngine_queriesAnswer/*.jar
+SearchEngine_queriesAnswer/SearchEngine_queriesAnswer_data
+SearchEngine_queriesAnswer/SearchEngine_queriesAnswer_data.zip
