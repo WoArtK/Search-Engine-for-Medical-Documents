@@ -7,5 +7,7 @@ Indexing_HealthInfo/out
 Indexing_HealthInfo/*.jar
 MeshMajorList/data
 MeshMajorList/Thesis_MeshMajorList_Data.zip
-Recall_Precision_Fallout
+Recall_Precision_Fallout/out
+Recall_Precision_Fallout/files
+Recall_Precision_Fallout/Reacl_Precision_Fallout.zip
 SearchEngine_queriesAnswer
